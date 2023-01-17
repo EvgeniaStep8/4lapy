@@ -37,3 +37,18 @@
 @import url('../blocks/item/item.css');
 @import url('../blocks/item/__image/item__image.css');
 @import url('../blocks/item/__title/item__title.css');
+/* Стили kinolog */
+@import url('../blocks/kinolog/kinolog.css');
+@import url('../blocks/kinolog/__title/kinolog__title.css');
+/* Стили two-columns */
+@import url('../blocks/two-columns/two-columns.css');
+/* Стили column */
+@import url('../blocks/column/column.css');
+@import url('../blocks/column/__title/column__title.css');
+@import url('../blocks/column/__text/column__text.css');
+
+
+/* Стили footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__logo/footer__logo.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
