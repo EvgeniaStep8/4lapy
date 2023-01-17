@@ -1,0 +1,5 @@
+.lead__info {
+  flex-shrink: 1;
+  border-top-left-radius: 30%;
+  background-color: white;
+}

@@ -1,5 +1,6 @@
-.header {
+.header {padding: 40px 200px;
   display: flex;
-  padding: 40px 350px;
   justify-content: space-between;
+  background: #EDEBFC;
+  margin: 0 auto;
 }

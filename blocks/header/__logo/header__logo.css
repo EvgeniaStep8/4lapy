@@ -1,3 +1,5 @@
 .header__logo {
   max-width: 112px;
+  min-height: 32px;
+  background: #EDEBFC;
 }
