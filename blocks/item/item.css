@@ -1,0 +1,12 @@
+.item {
+  padding: 30px 0px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  box-shadow: -4px -4px 20px rgba(120, 113, 222, 0.1), 4px 4px 20px rgba(120, 113, 222, 0.1);
+  border-radius: 4px;
+}
+
+.item:hover {
+    box-shadow: -4px -4px 20px rgba(120, 113, 222, 0.2), 4px 4px 20px rgba(120, 113, 222, 0.2);
+}

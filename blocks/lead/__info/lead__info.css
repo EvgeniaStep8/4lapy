@@ -1,5 +1,9 @@
 .lead__info {
-  flex-shrink: 1;
   border-top-left-radius: 30%;
   background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 75px 30px 75px 80px;
+  box-sizing: border-box;
+  max-width: 500px;
 }
