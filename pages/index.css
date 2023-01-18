@@ -47,7 +47,14 @@
 @import url('../blocks/column/__title/column__title.css');
 @import url('../blocks/column/__text/column__text.css');
 
-
+/* Стили answers */
+@import url('../blocks/answers/answers.css');
+@import url('../blocks/answers/__title/answers__title.css');
+/* Стили accordion */
+@import url('../blocks/accordion/__item/accordion__item.css');
+@import url('../blocks/accordion/__header/accordion__header.css');
+@import url('../blocks/accordion/__body/accordion__body.css');
+@import url('../blocks/accordion/__body/_opened/accordion__body_opened.css');
 /* Стили footer */
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__logo/footer__logo.css');

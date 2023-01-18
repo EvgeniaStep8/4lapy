@@ -1,0 +1,20 @@
+.accordion__header {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  color: #09035D;
+}
+
+.accordion__header::after {
+  content: '';
+  display: block;
+  background: url('../../../images/accordion-arrow.svg') center no-repeat;
+  width: 18px;
+  height: 10px;
+  background-size: cover;
+  align-self: center;
+  margin-left: auto;
+}
