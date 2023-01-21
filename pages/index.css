@@ -46,6 +46,16 @@
 @import url('../blocks/column/column.css');
 @import url('../blocks/column/__title/column__title.css');
 @import url('../blocks/column/__text/column__text.css');
+/* Стили about-me */
+@import url('../blocks/about-me/about-me.css');
+@import url('../blocks/about-me/__title/about-me__title.css');
+/* Стили card-container */
+@import url('../blocks/card-container/card-container.css');
+/* Стили card */
+@import url('../blocks/card/card.css');
+@import url('../blocks/card/__title/card__title.css');
+@import url('../blocks/card/__text/card__text.css');
+@import url('../blocks/card/__span-accent/card__span-accent.css');
 
 /* Стили answers */
 @import url('../blocks/answers/answers.css');
